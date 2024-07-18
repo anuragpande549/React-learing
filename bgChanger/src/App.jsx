@@ -20,7 +20,7 @@ function App() {
     <>
     <body className='flex justify-center items-center w-[100%] h-[100vh] ' style={{background : color}}>
     <div className="grid w-[500px] h-[70vh] bg-[#242424] shadow-lg rounded-lg gap-3  shadow-blue-500/50 border  ">
-    <h1 className='text-white text-center text-5xl mt-3 font-bold'>Change Baground color by click box </h1>
+    <h1 className='text-white text-center text-5xl mt-3 font-bold'>Change Background color by click box </h1>
       <div id="color" className=" text-center text-white bg-blue-500 shadow-lg mx-10 rounded-lg rounded-t-md shadow-blue-500/50">blue</div>
       <div id="color" className="text-center text-white bg-cyan-500 shadow-lg mx-10 rounded-lg shadow-cyan-500/50">Cyan</div>
       <div id="color" className=" text-center text-white bg-indigo-500 shadow-lg mx-10 rounded-lg shadow-indigo-500/50">indigo</div>
